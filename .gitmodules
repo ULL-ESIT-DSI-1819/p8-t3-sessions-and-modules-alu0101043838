@@ -1,3 +1,9 @@
 [submodule "ULL-ESIT-DSI-1819-auth-alu0101043838"]
 	path = ULL-ESIT-DSI-1819-auth-alu0101043838
 	url = https://github.com/ULL-ESIT-DSI-1819/ULL-ESIT-DSI-1819-auth-alu0101043838.git
+[submodule "src/server/ULL-ESIT-DSI-1819-server-auth-alu0101043838"]
+	path = src/server/ULL-ESIT-DSI-1819-server-auth-alu0101043838
+	url = https://github.com/ULL-ESIT-DSI-1819/ULL-ESIT-DSI-1819-server-auth-alu0101043838.git
+[submodule "ULL-ESIT-DSI-1819-server-auth-alu0101043838"]
+	path = ULL-ESIT-DSI-1819-server-auth-alu0101043838
+	url = https://github.com/ULL-ESIT-DSI-1819/ULL-ESIT-DSI-1819-server-auth-alu0101043838.git
